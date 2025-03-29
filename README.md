@@ -1,4 +1,4 @@
-**Machine Learning Engineer** – **Backend Developer**  
+# **Machine Learning Engineer** – **Backend Developer**  
 
 Expertise in developing advanced NLP, speech and computer vision models, fine-tuning LLMs, and deploying scalable backend systems. Proven track record of delivering innovative solutions to complex challenges in data processing and AI applications.  
 
