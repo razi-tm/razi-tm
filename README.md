@@ -75,7 +75,7 @@ Expertise in developing advanced NLP, speech and computer vision models, fine-tu
 ### **Noise Reduction Using Deep Learning**  
 - Applied advanced neural networks to remove noise from audio signals, achieving superior clarity and fidelity.  
 
-### **Open-Source Contributor [Pyannote.Audio](https://github.com/pyannote/pyannote-audio)**  
+### **Open-Source Contributor ([Pyannote.Audio](https://github.com/pyannote/pyannote-audio))**  
 
 ### **Text-to-Speech**  
 
