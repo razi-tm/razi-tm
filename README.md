@@ -1,4 +1,4 @@
-# **Machine Learning Engineer** – **Backend Developer**  
+# **AI Engineer**  
 
 Expertise in developing advanced NLP, speech and computer vision models, fine-tuning LLMs, and deploying scalable backend systems. Proven track record of delivering innovative solutions to complex challenges in data processing and AI applications.  
 
@@ -11,35 +11,23 @@ Expertise in developing advanced NLP, speech and computer vision models, fine-tu
 ### **Deep Learning - Machine Learning**  
 - PyTorch, TensorFlow, Keras, Fastai, LAVIS, YOLO, Scikit-Learn, OpenCV  
 
-### **Algorithms**  
-- Familiar with:  
-  - Dynamic programming, Memoization, Divide and conquer, Greedy, Sorting, Binary search  
-  - Uninformed search strategies (Breadth-first search, Depth-first search, Uniform-cost search, Depth-limited search, Iterative deepening search)  
-  - Informed search strategies (Greedy, A*)  
-  - Local search (Hill climbing, Simulated annealing, Genetic algorithm)  
-  - Adversarial search (Minimax, Alpha-beta pruning)  
-  - Several indexing algorithms for similarity search  
-
 ### **Data Analytics**  
 - Numpy, Pandas, Matplotlib  
-
-### **Programming Languages**  
-- Python, C/C++  
 
 ### **Hardware Assembly and Configuration**  
 - Assembling machine learning stations  
 
 ### **Other**  
-- Linux, Git, Docker, Django, ElasticSearch, FAISS, PostgreSQL, Pgvector, Google Colab, Advanced VPN setup  
-
+- Linux, Git, Docker, Django, ElasticSearch, FAISS, PostgreSQL, Pgvector  
 ### **English**  
-- Full professional efficiency  
+- Professional efficiency  
 
 ---
 
 ## **Work Experience**  
-- **Machine Learning Engineer - Backend Developer** at Sharif Search  
-- **Machine Learning Engineer (Internship)** at Sharif Search  
+- **Backend Developer** at NetBox  
+- **AI Engineer** at Sharif Search  
+- **AI Engineer (Internship)** at Sharif Search  
 
 ---
 
@@ -72,30 +60,12 @@ Expertise in developing advanced NLP, speech and computer vision models, fine-tu
 ### **Speaker Identification**  
 - Designed and deployed a deep learning-based system to identify and distinguish speakers.  
 
-### **Noise Reduction Using Deep Learning**  
-- Applied advanced neural networks to remove noise from audio signals, achieving superior clarity and fidelity.  
-
 ### **Open-Source Contributor ([Pyannote.Audio](https://github.com/pyannote/pyannote-audio))**  
-
-### **Text-to-Speech**  
 
 ### **Image Similarity Search**  
 - Developed a fast and scalable image similarity search engine using embeddings.  
-
 ### **Face Recognition with Increased Speed Using a Creative Method**  
-- Innovated on traditional algorithms to accelerate face recognition tasks while maintaining high accuracy, optimized for large-scale datasets.  
-
-### **Object Detection**  
-
-### **Image Captioning**  
-
-### **Text Summarization**  
-
-### **Spell Checker**  
-
-### **Local Implementation of Translation Models**  
-
-### **Optical Character Recognition (OCR)**  
+- Innovated on traditional algorithms to accelerate face recognition tasks while maintaining high accuracy, optimized for large-scale datasets.    
 
 ### **Customized Scraper for a Specific Website**  
 
