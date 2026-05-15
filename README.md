@@ -4,7 +4,6 @@ A lawyer and self-taught programmer with expertise across the full lifecycle of 
 
 Strong interdisciplinary background combining law, software engineering, and neuroscience-inspired problem solving. Experienced in applying signal-processing and adaptive modeling concepts to areas such as algorithmic trading systems and intelligent automation.  
 
-**Tehran** | **+989213207541** | **razitmazinani@gmail.com** | [LinkedIn: razi-taj-mazinani](https://linkedin.com/in/razi-taj-mazinani) | [GitHub: razi-tm](https://github.com/razi-tm)  
 
 ---
 
